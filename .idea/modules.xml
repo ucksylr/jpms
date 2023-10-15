@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ModuleExample.iml" filepath="$PROJECT_DIR$/ModuleExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.service.consumer/com.service.consumer.iml" filepath="$PROJECT_DIR$/com.service.consumer/com.service.consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.service.interfaces/com.service.interfaces.iml" filepath="$PROJECT_DIR$/com.service.interfaces/com.service.interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.service.locator/com.service.locator.iml" filepath="$PROJECT_DIR$/com.service.locator/com.service.locator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.service.provider/com.service.provider.iml" filepath="$PROJECT_DIR$/com.service.provider/com.service.provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.service.provider2/com.service.provider2.iml" filepath="$PROJECT_DIR$/com.service.provider2/com.service.provider2.iml" />
+    </modules>
+  </component>
+</project>
